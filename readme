@@ -1,0 +1,39 @@
+    	   The Siphon Project: The Passive Network Mapping Tool
+   	      Copyright (c) 2000 Subterrain Security Group
+
+
+Siphon Homepage: http://www.subterrain.net/projects/siphon/
+
+Current Platforms:
+  * OpenBSD 2.7 ( Primary Devel Platform)
+  * FreeBSD 4.0 
+  * Linux 2.0.x -> 2.3.x
+  * IRIX 6.2
+
+If you get Siphon working correctly under any new platforms, please let us
+know.
+
+Please send authors comments and suggestions.
+
+Author Contact:
+  bind [ bind@subterrain.net ]
+  aempirei [ aempirei@subterrain.net ]
+
+
+TODO:
+  * passive udp mapping option
+  * limit traffic to own subnet or specific host option
+  * optional statistical analysis
+  * report generation script
+
+Contributions & References:
+
+1. Interrupt [ Mike@eEye.com ] - Port of Siphon to Windows.
+2. qwer7y [ qwer7y@subterrain.net ] - Report generation script.
+3. scut [ scut@nb.in-berlin.de ] - Code testing and fingerprint gathering.
+4. vacuum [ vacuum@technotronic.com ] - Early code contributions.
+5. SSG [ www.subterrain.net ] - Code testing & Ideas.
+6. xdr [ xdr@h4x.com ] - Code testing.
+7. Lance Spitzner [ lance@spitzner.net ] - Passive OS Identification Paper
+8. Coretez Giovanni - Paper on offensive use of IDS.
+9. Maetrics [ virusfriendly@gmail.com ] - More code contributions.
